@@ -1,0 +1,3 @@
+101,John Doe,5
+102,Alice Smith,12
+103,Bob Johnson,8
